@@ -48,7 +48,7 @@ O projeto segue um fluxo de dados unidirecional para manter a manutenibilidade:
 
 1. **Clone este repositório:**
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/maxmesquitashima/NodeExpressChampionsLeagueAPI.git
    ```
 2. **Instale as dependências:**
    ```bash
