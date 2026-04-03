@@ -20,6 +20,13 @@ Esta API foi projetada para gerenciar e fornecer informações detalhadas sobre 
 - **Arquitetura em Camadas:** Separação rígida entre entrada de dados, lógica de negócio e persistência.
 - **Resposta Padronizada:** Helpers para garantir que todas as respostas HTTP sigam o mesmo contrato.
 
+## 🔗 Endpoints Base
+
+Todas as rotas da API utilizam o prefixo `/api`. Por padrão (se `PORT=3333` no `.env`):
+
+- **Jogadores:** `GET http://localhost:3333/api/players`
+- **Clubes:** `GET http://localhost:3333/api/clubs`
+
 ## 📂 Organização do Código
 
 ```bash
@@ -31,7 +38,7 @@ Esta API foi projetada para gerenciar e fornecer informações detalhadas sobre 
 ├── /services          # Onde a lógica de negócio e as regras são processadas.
 ├── /utils             # Funções utilitárias e tratadores de erros.
 ├── app.ts             # Instância principal e configuração do Express.
-├── route.ts           # Orquestração das rotas e endpoints.
+├── routes.ts          # Orquestração das rotas e endpoints.
 └── server.ts          # Ponto de entrada que inicia o servidor.
 ```
 
