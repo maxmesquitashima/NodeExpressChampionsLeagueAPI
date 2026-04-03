@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Vinícius Júnior",
+        "club": "Real Madrid",
+        "nationality": "Brazil",
+        "position": "Forward",
+        "statistics": {
+            "overral": 91,
+            "pace": 95,
+            "shooting": 84,
+            "passing": 81,
+            "dribbling": 91,
+            "defending": 29,
+            "physical": 69
+        }
+    },
+    {
+        "id": 2,
+        "name": "Kylian Mbappé",
+        "club": "Real Madrid",
+        "nationality": "France",
+        "position": "Forward",
+        "statistics": {
+            "overral": 92,
+            "pace": 97,
+            "shooting": 88,
+            "passing": 80,
+            "dribbling": 92,
+            "defending": 39,
+            "physical": 78
+        }
+    },
+    {
+        "id": 3,
+        "name": "Erling Haaland",
+        "club": "Manchester City",
+        "nationality": "Norway",
+        "position": "Forward",
+        "statistics": {
+            "overral": 91,
+            "pace": 89,
+            "shooting": 92,
+            "passing": 65,
+            "dribbling": 80,
+            "defending": 45,
+            "physical": 88
+        }
+    },
+    {
+        "id": 4,
+        "name": "Kevin De Bruyne",
+        "club": "Manchester City",
+        "nationality": "Belgium",
+        "position": "Midfielder",
+        "statistics": {
+            "overral": 90,
+            "pace": 72,
+            "shooting": 85,
+            "passing": 94,
+            "dribbling": 87,
+            "defending": 63,
+            "physical": 76
+        }
+    },
+    {
+        "id": 5,
+        "name": "Harry Kane",
+        "club": "Bayern Munich",
+        "nationality": "England",
+        "position": "Forward",
+        "statistics": {
+            "overral": 90,
+            "pace": 69,
+            "shooting": 93,
+            "passing": 83,
+            "dribbling": 82,
+            "defending": 49,
+            "physical": 82
+        }
+    },
+    {
+        "id": 6,
+        "name": "Mohamed Salah",
+        "club": "Liverpool",
+        "nationality": "Egypt",
+        "position": "Forward",
+        "statistics": {
+            "overral": 89,
+            "pace": 89,
+            "shooting": 87,
+            "passing": 82,
+            "dribbling": 88,
+            "defending": 45,
+            "physical": 75
+        }
+    },
+    {
+        "id": 7,
+        "name": "Lamine Yamal",
+        "club": "Barcelona",
+        "nationality": "Spain",
+        "position": "Forward",
+        "statistics": {
+            "overral": 81,
+            "pace": 82,
+            "shooting": 75,
+            "passing": 78,
+            "dribbling": 86,
+            "defending": 23,
+            "physical": 48
+        }
+    },
+    {
+        "id": 8,
+        "name": "Florian Wirtz",
+        "club": "Bayer Leverkusen",
+        "nationality": "Germany",
+        "position": "Midfielder",
+        "statistics": {
+            "overral": 88,
+            "pace": 81,
+            "shooting": 78,
+            "passing": 87,
+            "dribbling": 89,
+            "defending": 53,
+            "physical": 64
+        }
+    },
+    {
+        "id": 9,
+        "name": "Lautaro Martínez",
+        "club": "Inter Milan",
+        "nationality": "Argentina",
+        "position": "Forward",
+        "statistics": {
+            "overral": 89,
+            "pace": 81,
+            "shooting": 88,
+            "passing": 73,
+            "dribbling": 85,
+            "defending": 48,
+            "physical": 84
+        }
+    },
+    {
+        "id": 10,
+        "name": "Jude Bellingham",
+        "club": "Real Madrid",
+        "nationality": "England",
+        "position": "Midfielder",
+        "statistics": {
+            "overral": 90,
+            "pace": 80,
+            "shooting": 82,
+            "passing": 83,
+            "dribbling": 88,
+            "defending": 78,
+            "physical": 83
+        }
+    }
+]
